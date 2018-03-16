@@ -2,6 +2,10 @@ build/*
 cmake/*
 include/*
 
+!build/.gitkeep
+!cmake/.gitkeep
+!include/.gitkeep
+
 # Prerequisites
 *.d
 

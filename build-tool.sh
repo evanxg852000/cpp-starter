@@ -5,4 +5,4 @@ rm -rf cmake/*
 rm -rf build/*
 rm -rf include/*
 
-touch cmake/.git-keep build/.git-keep include/.git-keep
+touch cmake/.gitkeep build/.gitkeep include/.gitkeep
