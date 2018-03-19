@@ -91,3 +91,12 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/kigst
 ### License
 
 **CMake Project Template** is &copy; 2017 Konstantin Gredeskoul, available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT). 
+
+https://github.com/catchorg/Catch2
+https://github.com/kigster/cmake-project-template
+https://github.com/derekmolloy/exploringBB/blob/master/extras/cmake/
+
+TODO
+- [x] Catch2 integration
+- [x] Build script
+- [ ] Documentation
